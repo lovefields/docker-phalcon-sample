@@ -1,0 +1,3 @@
+[submodule "phalcon-sample"]
+	path = phalcon-sample
+	url = https://github.com/lovefields/phalcon-sample.git
